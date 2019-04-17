@@ -1,0 +1,5 @@
+# tanimoto extension
+comment = 'tanimoto on bit varying'
+default_version = '1.0'
+module_pathname = '$libdir/tanimoto'
+relocatable = true
